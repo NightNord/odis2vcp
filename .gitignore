@@ -1,0 +1,3 @@
+.mypy_*
+__pycache__
+resource_rc.py
